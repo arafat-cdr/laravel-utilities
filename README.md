@@ -1,6 +1,6 @@
 # laravel-utilities
 
-## Laravel Image upload and thubnil create or resize the image and store the image to storage public folder
+## Laravel Image upload and thumbnil create or resize the image and store the image to storage public folder
 
 * Here I am using a laravel package called  intervention/image for details 
 
